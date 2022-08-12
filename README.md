@@ -1,6 +1,6 @@
 # Hackintosh-OptiPlex-7090MT
 
-![](https://raw.githubusercontent.com/XLZH/Hackintosh-OptiPlex-7090MT/main/images/Overview.png)
+![image](images/Overview.png)
 
 **Opencore Bootloader 0.8.2. Tested on Monterey 12.5**
 
