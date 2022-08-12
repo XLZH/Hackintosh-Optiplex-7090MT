@@ -37,13 +37,13 @@ You will have to [**generate a new SMIBIOS**](https://github.com/corpnewt/GenSMB
 
 ## USB Mapping
 USB ports map:
-![](https://raw.githubusercontent.com/XLZH/Hackintosh-OptiPlex-7090MT/main/images/Dell_OptiPlex_7090MT.png)
+![image](images/Dell_OptiPlex_7090MT.png)
 
 USP ports in hackintool:
-![](https://raw.githubusercontent.com/XLZH/Hackintosh-OptiPlex-7090MT/main/images/Hacintool_Port.png)
+![image](images/Hacintool_Port.png)
 
 Other details:
-![](https://raw.githubusercontent.com/XLZH/Hackintosh-OptiPlex-7090MT/main/images/Details.png)
+![image](images/Details.png)
 
 
 * HS12 and HS13 are disabled due to the MacOS USB ports limit.
