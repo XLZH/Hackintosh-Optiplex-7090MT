@@ -48,3 +48,7 @@ Other details:
 
 * HS12 and HS13 are disabled due to the MacOS USB ports limit.
 * Since I don't have a typeC device, the typeC port is not test (I guess is SS01 and HS02)
+
+## Reference
+* https://github.com/webleon/Hackintosh-OptiPlex-7080-MT
+* https://github.com/ian7yang/ASUS-B560m-Plus-WiFi-i7-11700K
