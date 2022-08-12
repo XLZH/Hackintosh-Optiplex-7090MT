@@ -39,7 +39,7 @@ You will have to [**generate a new SMIBIOS**](https://github.com/corpnewt/GenSMB
 USB ports map:
 ![image](images/Dell_OptiPlex_7090MT.png)
 
-USP ports in hackintool:
+USB ports in hackintool:
 ![image](images/Hacintool_Port.png)
 
 Other details:
@@ -47,3 +47,4 @@ Other details:
 
 
 * HS12 and HS13 are disabled due to the MacOS USB ports limit.
+* Since I don't have a typeC device, the typeC port is not test (I guess is SS01 and HS02)
